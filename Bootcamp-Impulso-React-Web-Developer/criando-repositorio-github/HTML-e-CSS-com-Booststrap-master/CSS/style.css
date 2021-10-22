@@ -1,0 +1,65 @@
+html {
+    height: 100%;
+    min-height: 100%;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+footer{
+    align-items: center;
+    padding-top: auto;
+    padding-bottom: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navbar{
+    background-color: #212121;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.quem-somos{
+    
+    background-color: ;
+    
+}
+
+#prog{
+    margin-left: 50px;
+}
+
+.parc{
+    background-color: ;
+}
+
+#apple{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+h3{
+    color: rgba(39, 39, 39, 0.801);
+    padding-left: 50px;
+}
+
+h5{
+    color: #E02A5AFF;
+}
+
+a{
+    color: white;
+}
+
+p{
+    color: rgba(39, 39, 39, 0.801);
+}
+
+hr{
+    background-color: #E02A5AFF;
+    height: 1px;
+}
+

@@ -1,0 +1,7 @@
+git status: se tem mudanças a serem commitadas
+
+git add .: adicionar pastas novas ao commit
+
+git commit -m: dar commit com descrição
+
+git push origin main: enviar as modificações para o GitHub

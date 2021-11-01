@@ -1,0 +1,7 @@
+git init - prepara o local para repositório
+git status - arquivos que ainda não foram adicionados ao github
+git add . - adicionar arquivos modificados ou novos para o repositório
+git commit -m "comentario" - fazer commit
+git branch -M main - indicando o branch main do repositório
+git remote add origin <link_para_o_seu_repositorio> - linkar o repositório da máquina e github
+git push -u origin main - enviar
